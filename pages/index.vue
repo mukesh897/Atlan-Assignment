@@ -3,7 +3,7 @@
     <v-app id="inspire">
       <v-card>
         <v-card-title class="black white--text headline">
-          SQL Editor
+          SQL Editor App
         </v-card-title>
         <v-row
         >
