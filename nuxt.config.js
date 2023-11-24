@@ -3,8 +3,8 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - nuxt-query-app-2',
-    title: 'nuxt-query-app-2',
+    titleTemplate: 'Atlan Assignment',
+    title: 'Atlan Assignment',
     htmlAttrs: {
       lang: 'en'
     },
