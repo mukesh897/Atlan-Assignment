@@ -125,13 +125,8 @@ const avatars = [
 const pause = ms => new Promise(resolve => setTimeout(resolve, ms))
 export default {
   name: 'IndexPage',
-
-
-
-
   data() {
     return {
-
       active: [],
       query: null,
       avatar: null,
@@ -291,7 +286,6 @@ export default {
       // Remove in 6 months and say
       // you've made optimizations! :)
       await pause(15)
-
       return fetch('https://jsonplaceholder.typicode.com/users')
         .then(res => res.json())
         .then(json => (item.children.push(...json)))
