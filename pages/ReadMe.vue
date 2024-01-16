@@ -136,11 +136,11 @@
 
       <img class="w-full h-full mt-4 object-contain" src="@/static/flowDiagram.png" height="600px" width="600px" />
 
-      <h3 class="cursor-pointer underline">View Walkthrough Video
-        <a href="https://drive.google.com/file/d/1yesoOxvLTioWt17BKO2QIZnuDy1pOFNn/view?usp=sharing"></a>
+      <h3 class="cursor-pointer underline">
+        <a href="https://drive.google.com/file/d/1yesoOxvLTioWt17BKO2QIZnuDy1pOFNn/view?usp=sharing">View Walkthrough Video</a>
       </h3>
-      <h3 class="cursor-pointer underline">View Github Link
-        <a href="https://github.com/mukesh897/Atlan-Assignment"></a>
+      <h3 class="cursor-pointer underline">
+        <a href="https://github.com/mukesh897/Atlan-Assignment">View Github Link</a>
       </h3>
     </v-col>
   </v-row>
