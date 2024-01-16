@@ -137,6 +137,10 @@
 
       <img class="w-full h-full mt-4 object-contain" src="@/static/flowDiagram.png" height="600px" width="600px" />
 
+      <p class="mt-4">Walkthrough Video</p>
+      <a href="https://drive.google.com/file/d/1yesoOxvLTioWt17BKO2QIZnuDy1pOFNn/view?usp=sharing"></a>
+      <p class="mt-4">Github Link</p>
+      <a href="https://github.com/mukesh897/Atlan-Assignment"></a>
     </v-col>
   </v-row>
 </template>
@@ -144,5 +148,6 @@
 <script>
 export default {
   name: 'InspirePage'
-}
+},
+
 </script>
