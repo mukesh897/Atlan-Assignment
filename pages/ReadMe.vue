@@ -128,18 +128,17 @@
       <ul>
         <li>Encourage code reviews among team members for quality assurance.</li>
       </ul>
-
+      <h3>Load Time</h3>
       <p class="">
-        Load time
         Load time measured by Google Chrome Lighthouse:load time
       </p>
       <img class="w-full h-full ml-0 mt-4 object-contain" src="@/static/load-time.png" height="600px" width="600px" />
 
       <img class="w-full h-full mt-4 object-contain" src="@/static/flowDiagram.png" height="600px" width="600px" />
 
-      <p class="mt-4">Walkthrough Video</p>
+      <h3>Walkthrough Video</h3>
       <a href="https://drive.google.com/file/d/1yesoOxvLTioWt17BKO2QIZnuDy1pOFNn/view?usp=sharing"></a>
-      <p class="mt-4">Github Link</p>
+      <h3>Github</h3>
       <a href="https://github.com/mukesh897/Atlan-Assignment"></a>
     </v-col>
   </v-row>
