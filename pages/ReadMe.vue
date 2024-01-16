@@ -19,7 +19,7 @@
         <li>Built with Nuxt.js for server-side rendering and Vue.js for reactive components.</li>
         <li>Utilizes Vuex for state management, managing user-input queries, and the resulting data.</li>
         <li>Employs a modular component structure for reusability and maintainability.</li>
-        <li>Integrates Socket.io for real-time features.</li>
+        <li>Integrates PusherJs for real-time features.</li>
       </ul>
 
       <h2>3. Features</h2>
@@ -147,7 +147,7 @@
 
 <script>
 export default {
-  name: 'InspirePage'
-},
+  name: 'ReadMe'
+}
 
 </script>
